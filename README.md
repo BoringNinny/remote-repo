@@ -1,4 +1,4 @@
-#my first try of remote reposity
-#that will help me studying how git and github works
-i am very happy to creat a reomote repo successfully by the video of geekhour 
+#my first try of remote reposity#
+#that will help me studying how git and github works#
+i am very happy to creat a reomote repo successfully by the video of geekhour /br
 now let it begin!
